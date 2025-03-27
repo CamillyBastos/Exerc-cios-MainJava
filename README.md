@@ -1,1 +1,1 @@
-# Exerc-cios-MainJava
+# Exercicios-JS
